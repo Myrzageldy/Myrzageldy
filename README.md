@@ -29,8 +29,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Myrzageldy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myrzageldy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Myrzageldy&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Myrzageldy)
 
 </div>
 
@@ -42,11 +41,11 @@
 
 ---
 
-## Trophies
+## Activity
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Myrzageldy&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Myrzageldy&theme=tokyo-night&hide_border=true)](https://github.com/Myrzageldy)
 
 </div>
 
