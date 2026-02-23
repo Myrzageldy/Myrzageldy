@@ -1,6 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E57F7&height=200&section=header&text=Myrzageldy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full+Stack+Developer&descAlignY=55&descAlign=50" width="100%"/>
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Myrzageldy+%F0%9F%91%8B;Full+Stack+Developer;TypeScript+%2F+Python+enjoyer;Building+cool+stuff+every+day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=TypeScript+%2F+Python+Developer;Building+cool+stuff+every+day+%E2%9C%A8;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 
 </div>
 
@@ -36,6 +38,16 @@
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Myrzageldy&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 3D Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Myrzageldy/Myrzageldy/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 
 </div>
 
@@ -84,3 +96,4 @@
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E57F7&height=120&section=footer" width="100%"/>
