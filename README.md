@@ -81,12 +81,22 @@
 
 <div align="center">
 
-### Золотая страница — Golden Page
+### 📱 Golden Page — Золотая страница
 
-> Образовательное приложение для саморазвития: аудиомодули, аффирмации, планировщик задач и 365 цитат мудрости
+**An educational self-improvement app available on both platforms**
 
-[![Google Play](https://img.shields.io/badge/Google_Play-Скачать-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.leximyrza.mobileapp)
-[![App Store](https://img.shields.io/badge/App_Store-Скачать-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/ru/app/золотая-страница/id6756138425)
+| | |
+|:---:|:---|
+| 🎧 | 6 audio modules for mindset development |
+| 💬 | 365 daily wisdom quotes |
+| ✅ | Built-in task manager with calendar |
+| 📊 | Productivity statistics & tracking |
+
+<br/>
+
+[![Google Play](https://img.shields.io/badge/Google%20Play-Download-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.leximyrza.mobileapp)
+&nbsp;&nbsp;
+[![App Store](https://img.shields.io/badge/App%20Store-Download-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/ru/app/золотая-страница/id6756138425)
 
 </div>
 
