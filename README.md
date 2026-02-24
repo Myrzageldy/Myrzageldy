@@ -77,6 +77,21 @@
 
 ---
 
+## Mobile App
+
+<div align="center">
+
+### Золотая страница — Golden Page
+
+> Образовательное приложение для саморазвития: аудиомодули, аффирмации, планировщик задач и 365 цитат мудрости
+
+[![Google Play](https://img.shields.io/badge/Google_Play-Скачать-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.leximyrza.mobileapp)
+[![App Store](https://img.shields.io/badge/App_Store-Скачать-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/ru/app/золотая-страница/id6756138425)
+
+</div>
+
+---
+
 ## Featured Projects
 
 | Project | Description | Stack |
